@@ -23,7 +23,7 @@ methodolgy.ipynb
 ---
 ## Datasets
 
-- Train: [[Google Drive link](https://drive.google.com/drive/folders/1v0aytj3HjEwAPz5Hr9Hnp7Ghv2dYFz7r?usp=drive_link)]
+- Train: [[Google Drive link]
 - Validation: [Google Drive link]
 - Test: [Google Drive link]
 
