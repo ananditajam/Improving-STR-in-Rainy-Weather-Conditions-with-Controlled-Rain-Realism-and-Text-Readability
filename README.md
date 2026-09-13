@@ -9,14 +9,6 @@ Rain Realism and Text Readability"**
 
 Published in *Array*.
 
----
-## Contents
-- `rain_generation/` — Code for the proposed controlled rain-generation pipeline
-- `data/` — Links to generated and real rainy datasets
-- `benchmarks/` — STR benchmarking results
-- `finetuning/` — Scripts used to fine-tune pretrained STR models
-- `evaluation/` — Scripts/notebooks for computing evaluation metrics
-- `checkpoints/` — Fine-tuned model checkpoints
 
 Methodolgy:
 methodolgy.ipynb
