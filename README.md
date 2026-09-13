@@ -20,39 +20,23 @@ Published in *Array*.
 ---
 ## Datasets
 
-### Generated Rainy Dataset
-
-Rainy images generated using the proposed rain-generation framework.
-
 - Train: [Google Drive link]
 - Validation: [Google Drive link]
 - Test: [Google Drive link]
-
-### Real Rainy Dataset
-
-Real rainy scene-text images used for evaluation.
-
-- Train: [Google Drive link]
-- Validation: [Google Drive link]
-- Test: [Google Drive link]
-
-
-We do not redistribute the original pretrained model weights in this repository.
-
----
 
 ## Fine-Tuning
 
-For the fine-tuning experiments, pretrained STR models were initialized using
-their publicly available pretrained weights and subsequently fine-tuned using
-the rainy datasets described in the paper.
+## Pretrained STR Models
 
-Fine-tuning scripts/configurations used in our experiments are provided in:
+The experiments in this work use publicly available pretrained Scene Text
+Recognition (STR) models. The original implementations and pretrained weights
+can be obtained from their respective official repositories:
 
-`finetuning/`
+- PARSeq — [[Official GitHub repository](https://github.com/baudm/parseq)]
+- MAERec — [[Official GitHub repository](https://github.com/Mountchicken/Union14M)]
 
-
----
+The pretrained models were fine-tuned on the rainy-weather datasets described
+in the paper. 
 
 ## Evaluation
 
