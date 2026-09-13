@@ -24,8 +24,6 @@ methodolgy.ipynb
 ## Datasets
 
 - Train: [[Google Drive link]
-- Validation: [Google Drive link]
-- Test: [Google Drive link]
 
 ## Fine-Tuning
 
