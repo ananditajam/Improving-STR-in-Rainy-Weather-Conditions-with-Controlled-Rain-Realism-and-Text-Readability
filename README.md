@@ -17,6 +17,9 @@ Published in *Array*.
 - `finetuning/` — Scripts used to fine-tune pretrained STR models
 - `evaluation/` — Scripts/notebooks for computing evaluation metrics
 - `checkpoints/` — Fine-tuned model checkpoints
+
+Methodolgy:
+methodolgy.ipynb
 ---
 ## Datasets
 
