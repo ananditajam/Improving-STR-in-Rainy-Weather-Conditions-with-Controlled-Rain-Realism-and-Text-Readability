@@ -26,7 +26,7 @@ Published in *Array*.
 
 ## Fine-Tuning
 
-## Pretrained STR Models
+## STR Models
 
 The experiments in this work use publicly available pretrained Scene Text
 Recognition (STR) models. The original implementations and pretrained weights
