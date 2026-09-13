@@ -39,13 +39,7 @@ The pretrained models were fine-tuned on the rainy-weather datasets described
 in the paper. 
 
 ## Evaluation
-
-The evaluation scripts are provided in:
-
-`evaluation/`
-
-The following Scene Text Recognition metrics are supported:
-
+Evaluation metrics include WER, CER, Precision, Recall, and F1-Score.
 - Word Error Rate (WER)
 - Character Error Rate (CER)
 - Accuracy
