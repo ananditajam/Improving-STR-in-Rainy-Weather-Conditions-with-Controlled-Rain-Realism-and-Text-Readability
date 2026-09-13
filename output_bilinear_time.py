@@ -27,22 +27,10 @@ import time
 # =============================
 # User config (EDIT THESE)
 # =============================
-#LR_DIR   = "/DATA/rohit/anandita/2nd/extra_1000_rainy"
-#HRC_DIR  = "/DATA/rohit/anandita/2nd/clean_images"
 LR_DIR   = "/DATA/rohit/anandita/2nd/rdtx_rainy_test"
 HRC_DIR  = "/DATA/rohit/anandita/2nd/extracted_frames"
 MASK_DIR = "/DATA/rohit/anandita/2nd/segmentation_masks_test/new_test_output_images"
-#MASK_DIR = "/DATA/rohit/anandita/2nd/hisam_masks_1000_newer"
-OUT_ROOT = "/DATA/rohit/anandita/2nd/gen2_without_0.5_test_1000_new1"         # where to save per-image folders + batch CSV
-#LR_DIR   = "/DATA/rohit/anandita/2nd/rdtx_rainy_train"
-#LR_DIR   = "/DATA/rohit/anandita/2nd/rdtx_rainy_val"
-#HRC_DIR  = "/DATA/rohit/anandita/2nd/extracted_frames-train"
-#HRC_DIR  = "/DATA/rohit/anandita/2nd/extracted_frames-val"
-#MASK_DIR = "/DATA/rohit/anandita/2nd/segmentation_masks_train/new_train_output_images"
-#MASK_DIR = "/DATA/rohit/anandita/2nd/segmentation_masks_val/new_val_output_images"
-
-#OUT_ROOT = "/DATA/rohit/ananditas/2nd/gen1-val"
-#OUT_ROOT = "/storage/anandita/data/2nd/hp7_outputs_bilinear_only_batch_runsrainrealismval23"
+OUT_ROOT = "/DATA/rohit/anandita/2nd/gen2_without_0.5_test_1000_new1"      
 
 # Algorithm params (safe OCR-first defaults; tune as needed)
 NUM_ITERS            = 30 # try 28–32 if using smaller realism weight
